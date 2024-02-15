@@ -1,1 +1,1 @@
-# task02-functions-and-objects-
+# torsdagsopgave02-functions-and-objects-
